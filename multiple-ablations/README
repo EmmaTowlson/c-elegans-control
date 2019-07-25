@@ -1,0 +1,7 @@
+Results from Towlson EK & Barabási A-LB 2019, "Synthetic ablations in the C. elegans nervous system". 
+The pickle files contain dictionaries keyed by synthetic essential pairs (affected-muscles-double-57) and synthetic essential triplets (affected-muscles-triple-46).
+For each pair, the probability of losing control over each of the 95 muscle cells is given. These probabilities are caclulated by taking the difference between values from 1000 runs of the structural control analysis on the healthy worm, and 1000 runs on the worm with the pair or triplet ablated from the wiring diagram. 
+
+
+
+
